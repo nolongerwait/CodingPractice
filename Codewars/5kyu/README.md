@@ -18,6 +18,10 @@ My solution [int32_to_IPv4.cpp](int32_to_IPv4.cpp)
 The details of this kata: [Kata Stats: Integers: Recreation One](https://www.codewars.com/kata/55aa075506463dac6600010d)  
 My solution [Integers_Recreation_One.cpp](Integers_Recreation_One.cpp)
 
+# Maximum subarray sum
+The details of this kata: [Kata Stats: Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/cpp)  
+My solution [Maximum_subarray_sum.cpp](Maximum_subarray_sum.cpp)
+
 # RGB To Hex Conversion
 The details of this kata: [Kata Stats: RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001)  
 My solution [RGB_To_Hex_Conversion.cpp](RGB_To_Hex_Conversion.cpp)
